@@ -1,0 +1,12 @@
+* {
+  box-sizing: border-box;
+}
+
+footer {
+   font-size: 0.6em;
+}
+
+#social {
+   display: flex;
+   image-resolution: 0.6em;
+}
