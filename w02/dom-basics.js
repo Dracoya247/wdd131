@@ -2,7 +2,6 @@ const newParagraph = document.createElement("p");
 newParagraph.innerText = "Added with Javascript!";
 document.body.appendChild(newParagraph);
 
-
 const pic = document.createElement("img");
 pic.setAttribute("src", "https://picsum.photos/200");
 pic.setAttribute("alt", "Random image from picsum.");
